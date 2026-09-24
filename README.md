@@ -104,5 +104,5 @@
 ---
 
 <p align="center">
-  <i>Merci d'avoir visité mon profil ! N'hésitez pas à me contacter pour toute opportunité ou collaboration 🚀</i>
+  <i>Merci d'avoir visité mon profil ! N'hésitez pas à me contacter pour toute opportunité ou collaboration</i>
 </p>
