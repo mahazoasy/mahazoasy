@@ -20,7 +20,7 @@
 
 ---
 
-### 🧑‍💻 À propos de moi
+### À propos de moi
 
 - 🎓 Développeur Web Full-Stack, récemment diplômé en **Génie Logiciel** à l'Université Adventiste Zurcher (UAZ)
 - 💼 Expérience pratique en conception et développement d'applications **Web et mobiles**
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Compétences techniques
+### Compétences techniques
 
 **Frontend**
 
@@ -60,7 +60,7 @@
 
 ---
 
-### 🚀 Projet phare — AllMada
+### Projet phare — AllMada
 
 **Marketplace e-commerce malgache** (Web, Mobile & Backend commun)
 
@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahazoasy&show_icons=true&theme=dark&hide_border=true" height="165" />
@@ -97,7 +97,7 @@
 
 ---
 
-### 🎯 Qualités
+### Qualités
 
 `Autonome` `Adaptable` `Curieux` `Esprit d'équipe` `Organisé` `Apprentissage continu`
 
