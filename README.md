@@ -40,7 +40,7 @@ Développeur Web Full-Stack | Angular · React · Next.js · Node.js · NestJS
 
 ---
 
-## 👨‍💻 À propos de moi
+## À propos de moi
 
 - 🎓 Développeur Web Full-Stack, récemment diplômé en **Génie Logiciel** à l'Université Adventiste Zurcher (UAZ)
 - 💼 Expérience pratique en conception et développement d'applications **Web et mobiles**
@@ -52,7 +52,7 @@ Développeur Web Full-Stack | Angular · React · Next.js · Node.js · NestJS
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 ### Frontend
 
@@ -80,7 +80,7 @@ Développeur Web Full-Stack | Angular · React · Next.js · Node.js · NestJS
 
 ---
 
-## 🚀 Projet phare — AllMada
+## Projet phare — AllMada
 
 **Marketplace e-commerce malgache — Web, Mobile & Backend commun**
 
@@ -99,7 +99,7 @@ Développeur Web Full-Stack | Angular · React · Next.js · Node.js · NestJS
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
