@@ -47,7 +47,7 @@ Développeur Web Full-Stack | Angular · React · Next.js · Node.js · NestJS
 - 🚀 Projet de fin d'études : **AllMada**, une marketplace e-commerce malgache (Web + Mobile + Backend commun)
 - 🌱 Je continue d'apprendre en **IA & Data** : Python, reconnaissance vocale et traitement d'images
 - 👯 Ouvert aux collaborations sur des projets Web/Mobile innovants
-- 📫 Me contacter : **mahazoasyheritiana@gmail.com** | +261 38 08 365 02
+- 📫 Me contacter : **mahazoasyheritiana@gmail.com** | +261 38 76 842 80
 - ⚡ Fun fact : passionné de natation, d'histoire et de découverte de nouvelles cultures
 
 ---
