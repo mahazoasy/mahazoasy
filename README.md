@@ -16,7 +16,7 @@ Développeur Web Full-Stack | Angular · React · Next.js · Node.js · NestJS
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahazoasy-judica%C3%ABl-21295b331/?locale=en">
+  <a href="linkedin.com/in/mahazoasy-judicael">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
